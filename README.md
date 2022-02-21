@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning how to master the basics of GitHub
 - 💞️ I’m looking to collaborate on anyone who can share their knowledge to me
-- 📫 You can reach me through this email: microsoftbizspark@gmaiL.com
+- 📫 You can reach me through this email: microsoftbizspark@gmail.com
 
 <!---
 Kurokeko/Kurokeko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
